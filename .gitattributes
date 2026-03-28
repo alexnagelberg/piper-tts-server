@@ -1,0 +1,4 @@
+alex.onnx filter=lfs diff=lfs merge=lfs -text
+tone_440hz.wav filter=lfs diff=lfs merge=lfs -text
+callsign.wav filter=lfs diff=lfs merge=lfs -text
+pause.wav filter=lfs diff=lfs merge=lfs -text
