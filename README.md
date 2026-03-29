@@ -3,11 +3,10 @@ Simple webserver for converting text to speech. This is mostly generic enough, b
 
 ## Build
 ```bash
-docker build -t piper-tts-server .
+docker compose build
 ```
 
 ## Run
 ```bash
-chmod +x run_container.sh
-./run_container.sh
+docker compose up -d
 ```
